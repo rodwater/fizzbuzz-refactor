@@ -1,0 +1,34 @@
+
+/* 
+* {
+
+	border: red solid 2px;
+}
+*/
+
+body {
+	font-family: arial;
+	text-align: center;
+	background-color: gray;
+}
+
+h1 {
+	position: relative;
+	top: 180px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	position: relative;
+	top: 180px;
+}
+
+form {
+	position: relative;
+	top: 180px;
+}
+
+.submit {
+	float: right;
+}
